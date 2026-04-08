@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0739-daily-temperatures) |
+| [1929-concatenation-of-array](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/1929-concatenation-of-array) |
 | [2751-robot-collisions](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/2751-robot-collisions) |
 ## Hash Table
 |  |
@@ -151,5 +152,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/1929-concatenation-of-array) |
 | [2751-robot-collisions](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/2751-robot-collisions) |
 <!---LeetCode Topics End-->
