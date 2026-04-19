@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0112-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0572-subtree-of-another-tree) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Depth-First Search
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0112-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0112-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
