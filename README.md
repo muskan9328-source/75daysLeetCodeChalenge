@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0007-reverse-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Monotonic Stack
 |  |
