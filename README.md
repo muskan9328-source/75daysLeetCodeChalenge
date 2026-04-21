@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0112-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0112-path-sum) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0112-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
