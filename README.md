@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0424-longest-repeating-character-replacement) |
 ## Divide and Conquer
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0232-implement-queue-using-stacks](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0112-path-sum) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0543-diameter-of-binary-tree) |
@@ -243,4 +246,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
