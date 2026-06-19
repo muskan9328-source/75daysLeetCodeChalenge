@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0371-sum-of-two-integers](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0371-sum-of-two-integers) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/1929-concatenation-of-array) |
 | [2751-robot-collisions](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/2751-robot-collisions) |
 ## Tree
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0136-single-number) |
 | [0371-sum-of-two-integers](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0371-sum-of-two-integers) |
 ## Union-Find
