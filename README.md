@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0509-fibonacci-number) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0136-single-number) |
 ## Union-Find
 |  |
