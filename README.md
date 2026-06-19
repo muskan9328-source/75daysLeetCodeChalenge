@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0371-sum-of-two-integers](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0509-fibonacci-number) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Monotonic Stack
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0136-single-number) |
+| [0371-sum-of-two-integers](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0371-sum-of-two-integers) |
 ## Union-Find
 |  |
 | ------- |
