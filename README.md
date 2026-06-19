@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/1046-last-stone-weight) |
 | [1929-concatenation-of-array](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/1929-concatenation-of-array) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2751-robot-collisions](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/2751-robot-collisions) |
 ## Hash Table
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0977-squares-of-a-sorted-array) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2751-robot-collisions](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/2751-robot-collisions) |
 ## String
 |  |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0509-fibonacci-number) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -394,4 +397,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/0509-fibonacci-number) |
+## Geometry
+|  |
+| ------- |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+## Number Theory
+|  |
+| ------- |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/muskan9328-source/75daysLeetCodeChalenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 <!---LeetCode Topics End-->
